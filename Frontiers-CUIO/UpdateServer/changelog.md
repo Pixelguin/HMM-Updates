@@ -1,3 +1,7 @@
+## Controller UI Overhaul 1.5
+- Recreated PlayStation face buttons from scratch to be bolder and color-accurate
+- Added edge padding to all textures to remove color bleed
+
 ## Controller UI Overahul v1.1.1
 - Fixed black button prompts being replaced with white ones
 

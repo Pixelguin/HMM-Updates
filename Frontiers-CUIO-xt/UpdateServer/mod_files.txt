@@ -1,0 +1,2 @@
+add raw/ui/rpl_texture_btnguide.pac
+add mod.ini

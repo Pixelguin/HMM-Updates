@@ -1,4 +1,7 @@
-## Controller UI Overhaul 1.5
+## Controller UI Overhaul v1.5.1
+- Fixed swapped A/B and X/Y prompts for Switch
+
+## Controller UI Overhaul v1.5
 - Recreated PlayStation face buttons from scratch to be bolder and color-accurate
 - Added edge padding to all textures to remove color bleed
 

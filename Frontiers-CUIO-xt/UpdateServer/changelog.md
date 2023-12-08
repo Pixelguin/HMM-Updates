@@ -3,7 +3,7 @@ This is a major update to the mod that restructures it into **Colorful** and **M
 
 You will need to download the new version from GameBanana as a new mod - it cannot be automatically installed.
 
-After installing the new version, you can delete this old one.
+After installing the new version, delete the old version to stop this message from appearing again.
 
 # [Download on GameBanana](https://gamebanana.com/mods/download/412767)
 

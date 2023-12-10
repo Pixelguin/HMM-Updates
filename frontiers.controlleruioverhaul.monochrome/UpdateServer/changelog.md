@@ -1,3 +1,7 @@
+## Controller UI Overhaul v2.1
+- Added HMM package for Steam Deck
+- Fixed incorrect metadata
+
 ## Controller UI Overhaul v2.0
 - Restructured mod into Colorful and Monochrome variants
 - Added Monochrome variants for Xbox and PS4

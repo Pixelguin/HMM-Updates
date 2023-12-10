@@ -1,4 +1,4 @@
-## Controller UI Overhaul v2.0
+## Controller UI Overhaul v2.x
 This is a major update to the mod that restructures it into **Colorful** and **Monochrome** variants.
 
 You will need to download the new version from GameBanana as a new mod - it cannot be automatically installed.

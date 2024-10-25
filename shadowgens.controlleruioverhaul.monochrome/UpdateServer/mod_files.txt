@@ -1,0 +1,2 @@
+add raw/text_texture/text_texture.pac
+add mod.ini
